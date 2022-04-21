@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Stack/Queue?
+title: Stack and Queue
 category: DS-and-Algorithm
 ---
 
