@@ -21,6 +21,13 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: ds_and_algorithm.html
+
+  - title: Database
+    post_list:
+      category: database
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: database.html
   
   - title: another list
     entries:

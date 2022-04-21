@@ -5,22 +5,22 @@ category: DS-and-Algorithm
 ---
 
 ### Table of contents
-- [Stack](#Stack)
-	- [Overview](#Overview)
-	- [Basic operations](#Basic-operations)
+- [스택](#스택)
+	- [개요](#개요)
+	- [주요 기능](#주요-기능)
 
 ---
 
-# Stack
+# [스택](#스택)
 
-## Overview
-FILO(First In, Last Out) or LIFO(Last In, First Out) structure
+## [개요](#개요)
+FILO(First In, Last Out) or LIFO(Last In, First Out) 구조
 
-Elements are inserted and deleted only at one end of the structure.
+구조의 한쪽 끝에서만 요소의 삽입, 삭제가 이루어진다.
 
 ex)
-- most network protocols
-- Automatic memory
-- Test analysis program
+- 대부분의 네트워크 프로토콜
+- 자동 메모리
+- 테스트 분석 프로그램
 
-## Basic operations
+## [주요 기능](#주요-기능)
