@@ -12,15 +12,15 @@ entries:
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
+      show_more_text: See more posts...
       show_more_url: archive.html
 
-  - title: posts by category
+  - title: Data structures and algorithms
     post_list:
-      category: example2
+      category: DS-and-Algorithm
       show_more: true
       show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_url: ds_and_algorithm.html
   
   - title: another list
     entries:
