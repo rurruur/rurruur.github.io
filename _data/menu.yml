@@ -4,11 +4,10 @@
 entries:
   - title: info
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
+      - title: nakkim<kdkeiie8@gmail.com>
       - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
-
+        url: https://github.com/rurruur
+      
   - title: all posts
     post_list:
       limit: 5
@@ -22,9 +21,6 @@ entries:
       show_more: true
       show_more_text: See more posts...
       show_more_url: example2-archive.html
-
-  - title: rss
-    url: feed.xml
   
   - title: another list
     entries:
@@ -33,6 +29,3 @@ entries:
           - title: with subsubitems
           - title: example page
             url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
