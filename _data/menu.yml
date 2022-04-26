@@ -15,14 +15,14 @@ entries:
       show_more_text: See more posts...
       show_more_url: archive.html
 
-  - title: Data structures and algorithms
+  - title: 자료구조와 알고리즘
     post_list:
       category: DS-and-Algorithm
       show_more: true
       show_more_text: See more posts...
       show_more_url: ds_and_algorithm.html
 
-  - title: Database
+  - title: 데이터베이스
     post_list:
       category: database
       show_more: true
